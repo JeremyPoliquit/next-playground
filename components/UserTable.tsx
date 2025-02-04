@@ -18,15 +18,16 @@ const UserTable = () => {
           <th>Password</th>
         </tr>
       </thead>
-      {users.map((user) => (
-        <tbody>
-          <tr>
+      
+      <tbody>
+        {users.map((user) => (
+          <tr key={user.id}>
             <td>{user.id}</td>
             <td>{user.username}</td>
             <td>{user.password}</td>
           </tr>
-        </tbody>
-      ))}
+        ))}
+      </tbody>
     </table>
   );
 };
