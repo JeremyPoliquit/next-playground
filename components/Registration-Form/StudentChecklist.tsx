@@ -2,7 +2,7 @@ import React from "react";
 
 export default function StudentChecklist() {
   return (
-    <table className="table">
+    <table className="table table-sm">
       <thead>
         <tr className="border-y-2 border-green-700 text-green-700">
           <th>Sched Code</th>
