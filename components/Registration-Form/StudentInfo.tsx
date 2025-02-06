@@ -6,7 +6,7 @@ export default function StudentInfo() {
       {/* Column 1 */}
       <div className="flex gap-16 w-full">
         {/*  */}
-        <div className="w-1/2">
+        <div className="w-1/8">
           <div className="flex flex-col gap-1">
             <b className="font-bold text-green-700">Student Number:</b>
             <b className="font-bold text-green-700">Student Name:</b>
@@ -15,7 +15,7 @@ export default function StudentInfo() {
           </div>
         </div>
         {/*  */}
-        <div className="w-full">
+        <div className="w-1/2">
           <div className="flex flex-col gap-1">
             <span className="font-semibold">202310000</span>
             <span className="font-semibold">JAMES LEBRON BUMBUM</span>
