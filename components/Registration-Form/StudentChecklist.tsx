@@ -23,7 +23,7 @@ export default function StudentChecklist() {
           <td className="border-x-2 border-green-700">3</td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -32,7 +32,7 @@ export default function StudentChecklist() {
           <td className="border-r-2 border-green-700">3</td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -41,7 +41,7 @@ export default function StudentChecklist() {
           <td className="border-r-2 border-green-700">3</td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -55,7 +55,7 @@ export default function StudentChecklist() {
           </td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -69,7 +69,7 @@ export default function StudentChecklist() {
           </td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -83,7 +83,7 @@ export default function StudentChecklist() {
           </td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
         <tr>
           <td className="border-r-2 border-green-700">TBA</td>
@@ -92,16 +92,16 @@ export default function StudentChecklist() {
           <td className="border-r-2 border-green-700">3</td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
-        <tr>
+        <tr className="border-b-2 border-green-700">
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">FITT 3</td>
-          <td className="border-r-2 border-green-700">Physical Activities towards Health adn Fitness 1</td>
+          <td className="border-r-2 border-green-700">Physical Activities towards Health and Fitness 1</td>
           <td className="border-r-2 border-green-700">3</td>
           <td className="border-r-2 border-green-700">TBA</td>
           <td className="border-r-2 border-green-700">TBA</td>
-          <td className="border-r-2 border-green-700">TBA</td>
+          <td>TBA</td>
         </tr>
       </tbody>
     </table>
