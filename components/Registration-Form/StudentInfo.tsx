@@ -17,8 +17,8 @@ export default function StudentInfo() {
         {/*  */}
         <div className="w-1/2">
           <div className="flex flex-col gap-1">
-            <span className="font-semibold">202310000</span>
-            <span className="font-semibold">JAMES LEBRON BUMBUM</span>
+            <span className="font-semibold">202310205</span>
+            <span className="font-semibold">JAMES LEBRON</span>
             <div className="flex justify-between">
               <div className="flex w-1/2">
                 <span className="font-semibold">BSCS</span>
